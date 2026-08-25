@@ -1,0 +1,6 @@
+{
+  "name": "Search Architect & NLP Engine",
+  "description": "Analyze Search Engine Results Pages (SERPs) and organic listings through the September 2025 Search Quality Rater Guidelines and Generative Engine Optimization (GEO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
