@@ -432,7 +432,7 @@ export default function App() {
       <footer className="border-t border-slate-900 bg-slate-950 py-8 px-6 mt-12 text-center text-xs text-slate-500 font-mono">
         <div className="max-w-7xl mx-auto space-y-2">
           <p>
-            © 2026 SERP Layout &amp; GEO Citation Analyzer. Developed by <strong className="text-slate-300">Ami - SEO Girl</strong>. All rights reserved.
+            © 2026 SERP Layout &amp; GEO Citation Analyzer. Developed by <strong className="text-slate-300">SEO Girl - Ami</strong>. All rights reserved.
           </p>
           <p className="opacity-60 text-[10px]">
             SERP structure, NLP entity and GEO citation diagnostic
